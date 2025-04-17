@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Univer.Models.User>
+@{
+    ViewBag.Title = "Пользователи";
+}
+<main aria-labelledby="title">
+    <h3>Созданные пользователи</h3>
+    <p>
+        @Html.ActionLink("Пользователи", "Users")
+    </p>
+    <table class="table">
+        <tr>
+            <td><p>Логин</p></td>
+            <td><p>Пароль</p></td>
+            <td><p>Роль</p></td>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.Login)</td>
+                <td>@Html.DisplayFor(modelItem => item.Password)</td>
+                <td>@Html.DisplayFor(modelItem => item.RoleId)</td>
+                @*<td>
+            @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+            @Html.ActionLink("Подробнее", "Details", new { id = item.Id }) |
+            @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+        </td>*@
+            </tr>
+        }
+
+    </table>
+</main>

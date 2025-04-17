@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\models\\createpolz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\models\\createpolz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\models\\disciplina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\providers\\customroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\providers\\customroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\univer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\views\\home\\createdis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\views\\home\\createdis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|f:\\\u0432\u043B\u0433\u0443\\\u0442\u043F\\univer\\univer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F76F447-4486-4FB9-9718-9B0470B759E8}|Univer\\Univer.csproj|solutionrelative:univer\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Disciplina.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\Disciplina.cs",
+              "RelativeDocumentMoniker": "Univer\\Models\\Disciplina.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\Disciplina.cs",
+              "RelativeToolTip": "Univer\\Models\\Disciplina.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T18:05:33.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreatePolz.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\CreatePolz.cs",
+              "RelativeDocumentMoniker": "Univer\\Models\\CreatePolz.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\CreatePolz.cs",
+              "RelativeToolTip": "Univer\\Models\\CreatePolz.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowBEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-06T17:34:33.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Univer\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Univer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T15:35:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Univer\\Controllers\\AccountController.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Univer\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T14:55:42.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Univer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Univer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-06T18:31:36.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Univer\\Views\\Account\\Login.cshtml",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Univer\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-02T15:26:45.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Univer\\Views\\Home\\About.cshtml",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Univer\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-06T19:06:01.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Univer\\Global.asax.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Global.asax.cs",
+              "RelativeToolTip": "Univer\\Global.asax.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T17:44:21.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Models.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "Univer\\Models\\Models.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\Models.cs",
+              "RelativeToolTip": "Univer\\Models\\Models.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T14:51:24.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Univer\\Models\\User.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\User.cs",
+              "RelativeToolTip": "Univer\\Models\\User.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T12:31:11.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "Univer\\Models\\UserContext.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Models\\UserContext.cs",
+              "RelativeToolTip": "Univer\\Models\\UserContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T14:38:40.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomRoleProvider.cs",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Providers\\CustomRoleProvider.cs",
+              "RelativeDocumentMoniker": "Univer\\Providers\\CustomRoleProvider.cs",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Providers\\CustomRoleProvider.cs",
+              "RelativeToolTip": "Univer\\Providers\\CustomRoleProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T18:00:01.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Univer\\Views\\Account\\Register.cshtml",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Univer\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-02T14:58:22.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateDis.cshtml",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\CreateDis.cshtml",
+              "RelativeDocumentMoniker": "Univer\\Views\\Home\\CreateDis.cshtml",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Views\\Home\\CreateDis.cshtml",
+              "RelativeToolTip": "Univer\\Views\\Home\\CreateDis.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-06T18:11:49.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Web.config",
+              "RelativeDocumentMoniker": "Univer\\Web.config",
+              "ToolTip": "F:\\\u0412\u041B\u0413\u0423\\\u0422\u041F\\Univer\\Univer\\Web.config",
+              "RelativeToolTip": "Univer\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-02T14:42:12.632Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

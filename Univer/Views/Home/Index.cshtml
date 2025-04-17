@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Univer.Models.Disciplina>
+
+@{
+    ViewBag.Title = "Дисциплины";
+}
+
+<h3>Список дисциплин</h3>
+
+<p>
+    @Html.ActionLink("Список дисциплин", "Disciplina")
+</p>
+<table class="table">
+    <tr>
+        <td><p>Название дисциплины</p></td>
+        <td><p>Преподаватель</p></td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name_Dis)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name_Prepod)
+            </td>
+            @*<td>
+                    @Html.ActionLink("Редактировать", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Подробнее", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Удалить", "Delete", new { id = item.Id })
+                </td>*@
+        </tr>
+    }
+
+</table>
